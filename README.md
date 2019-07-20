@@ -12,3 +12,7 @@ I don't rememeber how you get them, but you need to set them to env variables:
     SPT_CLIENT_ID
     SPT_CLIENT_SECRET
 ```
+
+The you need to set the Last.fm user name in `LastFm2SpotifyPlaylist.java:22`. (I know, this )
+
+After that you can just run `LastFm2SpotifyPlaylist::main`.
